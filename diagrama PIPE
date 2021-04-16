@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T20:47:10.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="vYYWm8gzAXADgr2UyiCh" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T20:47:48.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="7QSFwfmIivyOtWxF2Ug9" version="14.6.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="By9PqKx9ID3WKWnSb-9f-1" value="C" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="97" y="70" width="730" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="By9PqKx9ID3WKWnSb-9f-2" value="Projeto de Integração de plataformas de Ensino - PIPE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-2" value="Projeto de Integração de Plataformas de Ensino - PIPE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="70" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">

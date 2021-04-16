@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T20:18:29.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="nn7XbXexBsWJTyW_-DUW" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T20:24:44.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="_amVS3wnhoLssJfisjoB" version="14.6.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,22 +11,49 @@
           <mxGeometry x="150" y="70" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="470" height="140" as="geometry" />
+          <mxGeometry x="150" y="230" width="470" height="140" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-9" value="necessidades especiais" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="182" y="140" width="128" height="50" as="geometry" />
+          <mxGeometry x="172" y="250" width="128" height="50" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-10" value="Turmas" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="470" y="140" width="100" height="50" as="geometry" />
+          <mxGeometry x="460" y="250" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-12" value="Cursos Técnicos&amp;nbsp;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="140" width="110" height="50" as="geometry" />
+          <mxGeometry x="330" y="250" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-13" value="Alfabetização" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="130" height="50" as="geometry" />
+          <mxGeometry x="170" y="310" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-14" value="Filtros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="450" y="200" width="70" height="55" as="geometry" />
+          <mxGeometry x="440" y="310" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="470" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-17" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="170" y="127" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-18" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="236" y="127" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-19" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="310" y="126" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-20" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="414" y="127" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-21" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="495" y="127" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-22" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="560" y="127" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-45" value="CURADORIA&amp;nbsp;&lt;br&gt;Classificação + Aprovação" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="290" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

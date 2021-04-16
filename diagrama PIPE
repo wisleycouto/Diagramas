@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T20:44:14.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="GdhuaGgP-DysM-wcanvX" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T20:47:10.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="vYYWm8gzAXADgr2UyiCh" version="14.6.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="610" y="365" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="490" width="470" height="140" as="geometry" />
+          <mxGeometry x="140" y="470" width="470" height="160" as="geometry" />
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-49" value="TV ESCOLA" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="260" y="500" width="80" height="50" as="geometry" />
@@ -117,6 +117,15 @@
         </mxCell>
         <mxCell id="By9PqKx9ID3WKWnSb-9f-70" value="Realidade Virtuais" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="505" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-user-interface-elements/700/exit-delete-remove-close-x-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-user-interface-elements/700/exit-delete-remove-close-x-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="505" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="By9PqKx9ID3WKWnSb-9f-77" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=16;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="20" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
